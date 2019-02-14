@@ -1,0 +1,55 @@
+/* style.css */
+/* 12/Feb/2019 */
+
+.centrado {
+    text-align: center;
+}
+
+.JustificadoDerecha {
+    text-align: right;
+}
+
+.rojo {
+    color:red;
+}
+
+.azul {
+    color:blue;
+}
+
+.verde {
+    color:green;
+}
+
+.orange {
+    color:orange;
+}
+
+.LetraPeque {
+    font-size:small;
+}
+
+.LetraGde {
+    font-size:x-large;
+}
+
+.LetraBold {
+    font-weight: bold;
+}
+
+.LetraArial {
+    font-family: Arial;
+}
+
+.styledFont {
+    color:green;
+    font-size:large;
+}
+
+#styledImage {
+    border:8px solid orange;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%
+  }
